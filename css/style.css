@@ -50,13 +50,13 @@ body {
 }
 
 a {
-  color: rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
   outline: none;
   text-decoration: none;
 }
@@ -74,17 +74,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: rgb(179 116 82 / 80%);
+  background: rgb(98 119 88 / 80%);
 }
 
 ::-moz-selection {
   color: #fff;
-  background: rgb(179 116 82 / 80%);
+  background: rgb(98 119 88 / 80%);
 }
 
 ::selection {
   color: #fff;
-  background: rgb(179 116 82 / 80%);
+  background: rgb(98 119 88 / 80%);
 }
 
 .fh5co-nav {
@@ -199,7 +199,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.btn-cta a {
-  color: rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
 }
 .fh5co-nav ul li.btn-cta a span {
   background: #fff;
@@ -699,7 +699,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), black);
 }
 #fh5co-gallery-list li a:hover:before {
-  background: rgb(179 116 82 / 80%);
+  background: rgb(98 119 88 / 80%);
 }
 #fh5co-gallery-list li a:hover > .case-studies-icon {
   display: block;
@@ -798,7 +798,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -817,7 +817,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
   position: absolute;
   left: 0;
   top: .05em;
@@ -909,7 +909,7 @@ form label {
 .fh5co-cover .display-tc .btn {
   padding: 15px 20px;
   background: #fff !important;
-  color: rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
   border: none !important;
   font-size: 14px;
   text-transform: uppercase;
@@ -972,7 +972,7 @@ form label {
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: rgb(179 116 82 / 80%);
+  background: rgb(98 119 88 / 80%);
   margin: 0 4px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1089,7 +1089,7 @@ form label {
   font-size: 20px;
   background: #fff;
   padding: 20px;
-  color: rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1112,7 +1112,7 @@ form label {
 }
 .couple-half h3 {
   font-family: "seasons";
-  color: rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
   font-size: 30px;
 }
 .couple-half .groom, .couple-half .bride {
@@ -1205,7 +1205,7 @@ form label {
   height: 90px;
   font-size: 40px;
   line-height: 40px;
-  color: rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
 }
 .feature-center p, .feature-center h3 {
   margin-bottom: 30px;
@@ -1223,7 +1223,7 @@ form label {
   font-size: 60px;
   margin-bottom: 0px;
   line-height: 1.5;
-  color: rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
   font-family: "seasons";
 }
 
@@ -1284,7 +1284,7 @@ form label {
   display: block;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide span a.twitter {
-  color: rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
   font-weight: 300;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide figure {
@@ -1376,7 +1376,7 @@ form label {
   display: table-cell;
   vertical-align: middle;
   font-size: 30px;
-  color: rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
 }
 .feature-left .feature-copy {
   float: left;
@@ -1442,7 +1442,7 @@ form label {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: rgb(179 116 82 / 80%);
+  background: rgb(98 119 88 / 80%);
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -1486,14 +1486,14 @@ div#fh5co-started {
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: transparent;
-  border: 2px solid rgb(179 116 82 / 80%);
+  border: 2px solid rgb(98 119 88 / 80%);
 }
 
 #fh5co-offcanvas {
   position: absolute;
   z-index: 1901;
   width: 270px;
-  background: rgb(179 116 82 / 98%);
+  background: rgb(98 119 88 / 98%);
   text-transform: uppercase;
   text-align: center;
   top: 0;
@@ -1742,9 +1742,9 @@ div#fh5co-started {
 }
 
 .btn-primary {
-  background: rgb(179 116 82 / 80%);
+  background: rgb(98 119 88 / 80%);
   color: #fff;
-  border: 2px solid rgb(179 116 82 / 80%);
+  border: 2px solid rgb(98 119 88 / 80%);
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #f366a3 !important;
@@ -1752,11 +1752,11 @@ div#fh5co-started {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: rgb(179 116 82 / 80%);
-  border: 2px solid rgb(179 116 82 / 80%);
+  color: rgb(98 119 88 / 80%);
+  border: 2px solid rgb(98 119 88 / 80%);
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: rgb(179 116 82 / 80%);
+  background: rgb(98 119 88 / 80%);
   color: #fff;
 }
 
@@ -1886,7 +1886,7 @@ div#fh5co-started {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: rgb(179 116 82 / 80%);
+  border-color: rgb(98 119 88 / 80%);
 }
 
 .row-pb-md {
