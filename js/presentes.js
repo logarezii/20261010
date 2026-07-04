@@ -365,10 +365,10 @@ data.presentes.forEach(presente => {
 
     const link = presente.link !== ''
         ? `<a href="${presente.link}" target="_blank" class="${presente.recebido ? "recebido" : ""}">`
-        : `<a href="./images/vf/qrcode.png" data-fancybox data-caption="Clique fora para voltar" class="${presente.recebido ? "recebido" : ""}">`;
+        : `<a href="./images/yj/qrcode.png" data-fancybox data-caption="Clique fora para voltar" class="${presente.recebido ? "recebido" : ""}">`;
 
     const fita = presente.recebido
-        ? '<div class="case-studies-fita"><img style="width: -webkit-fill-available;" src="./images/vf/fita.png" alt=""><p style="text-align: center;margin-top: -25px;color: white;">😱 Brigaduu! ❤️</p></div>'
+        ? '<div class="case-studies-fita"><img style="width: -webkit-fill-available;" src="./images/wj/fita.png" alt=""><p style="text-align: center;margin-top: -25px;color: white;">😱 Brigaduu! ❤️</p></div>'
         : '';
         
 
