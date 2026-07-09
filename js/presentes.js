@@ -107,184 +107,184 @@ const data = {
             "recebido": false
         },
         {
-            "descricao": "Jogo de Taças para Vinho",
-            "imagem": "https://a-static.mlcdn.com.br/800x560/jogo-de-tacas-para-vinho-de-cristal-460ml-6-pecas-haus-concept-pleasure/magazineluiza/237989200/41026b029a221d86e378b142515227b0.jpg",
-            "preco": "145,40",
-            "link": "",
-            "recebido": true
-        },
-        {
-            "descricao": "Espelho porta chaves",
-            "imagem": "	https://cdn.awsli.com.br/2500x2500/2620/2620341/produto/276960541/me-site-055-77uabgjsvw.jpg",
-            "preco": "398,90",
+            "descricao": "Ajude a manter as luzes acesas",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTVXJrbQ--0VQUma4iE5jOvbIG5XFkMZpCNU6MTHY2g&s=10",
+            "preco": "180,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Mop 360 Triangular",
-            "imagem": "https://a-static.mlcdn.com.br/800x560/mop-360-triangular-com-2-refil-limpeza-laves/laves01/esfre-trian-58/2ac4c4bdcef2c1cc8a8a4c443b3bbb3f.jpeg",
-            "preco": "38,74",
+            "descricao": "Ajude a encher a geladeira",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG7IDaXTfy-oOqt-1C6dPC2NoiaWPoqXp34ngL9B92Uw&s=10",
+            "preco": "500,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Kit Potes Herméticos",
-            "imagem": "https://a-static.mlcdn.com.br/800x560/kit-potes-hermeticos-plasticos-cinza-8-unidades-electrolux/eletromiller/41046083/fee489fc936922b4ef5c156bd6fa3f1a.jpeg",
-            "preco": "109,99",
+            "descricao": "O noivo não gosta de lavar louças",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfooSScyW6JrNTSfHF8HrYe7N5ygKsxKP4RvoMX2e8FA&s=10",
+            "preco": "1500,00",
+            "link": "",
+            "recebido": false
+        },
+        {
+            "descricao": "A noiva não gosta de varrer a casa",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRH8fK2WvfiBIFz65iSbt2OiNaKxJ1eMfrem7JkGJ0g&s",
+            "preco": "1300,00",
+            "link": "",
+            "recebido": false
+        },
+        {
+            "descricao": "um presente que fará parte da nossa história",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTFkmLbZTOLSkfrUoyOsPUYiI4ECoLYE2QwOrLUesiXg&s=10",
+            "preco": "10.000,00",
+            "link": "",
+            "recebido": false
+        },
+        {
+            "descricao": "O melhor presente é a sua presença. O PIX é um bônus!",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0JphwKwuR35Xxz9Zi1fQDDmh4U1rjVdzs3szeSZk7A&s=10",
+            "preco": "5.000,00",
             "link": "",
             "recebido": true
         },
         {
-            "descricao": "Panela Wok Antiaderente",
-            "imagem": "https://a-static.mlcdn.com.br/800x560/panela-wok-tramontina-loreto-antiaderente-max-vermelho-36-l-28-cm/homepoint/se7004/c18804c789cd919045824bfc6127033c.jpeg",
-            "preco": "56,99",
-            "link": "",
-            "recebido": true
-        },
-        {
-            "descricao": "Risotos da Vivi",
-            "imagem": "https://a-static.mlcdn.com.br/800x560/panela-wok-antiaderente-tramontina-paris-de-aluminio-chumbo-36cm/magazineluiza/234985900/cff97fce476be8847a7d9e635b4c51e3.jpg",
-            "preco": "349,20",
-            "link": "",
-            "recebido": true
-        },
-        {
-            "descricao": "Soninho da Vivi",
-            "imagem": "https://m.media-amazon.com/images/I/8181AcXd5WL._AC_SL1500_.jpg",
+            "descricao": "Porque o amor é lindo, mas a realidade também existe",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7fKcjmgfTu0ZUERtXt7wSGwsnvGc-5zg-IALRKP4oQ&s",
             "preco": "200,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Desestresse a Vivi",
-            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_732813-MLB81648426403_122024-F.webp",
-            "preco": "156,00",
+            "descricao": "Contribua para a memória do noivo lembrar do aniversário de casamento",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0O5Qo7f7adtHY76yjet9x13V4RqWIZr2ASGv0pWbkLw&s=10",
+            "preco": "250,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Só para não dizerem que não dei nada",
-            "imagem": "https://trecobox.com.br/wp-content/uploads/2021/07/Julius-edit.jpg",
+            "descricao": "Ajude a pagar os boletos que chegaram antes mesmo da felicidade",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Ji-FExNX69Sanjb_7zQjg7arHYLLMVr7lv-9myyaUA&s=10",
             "preco": "112,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Rechaud Retangular",
-            "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lz0w9hvw2exxd7@resize_w450_nl.webp",
-            "preco": "296,00",
-            "link": "",
-            "recebido": true
-        },
-        {
-            "descricao": "Videogame da cozinha",
-            "imagem": "https://m.media-amazon.com/images/I/510kKaOeNmL._AC_SX679_.jpg",
-            "preco": "2.999,00",
+            "descricao": "Patrocine a OAB da noiva",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS63zQrYaTG3YBrqG2MuQGgRDJOESIHz8KIOeJQch03rQ&s=10",
+            "preco": "550,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Para as visitas",
-            "imagem": "https://d30xhje6ivbaf5.cloudfront.net/Custom/Content/Products/42/81/4281_jg-simples-sofee-kacyumara-bily-pr-18407-5253-jgs_z2_638477612642316041.webp",
-            "preco": "119,90",
+            "descricao": "Seja um investidor-anjo deste casamento",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuegrx5Ikrc4J4qZWQHdXTsgum4wFQ1KD2-9v30y7sMw&s=10",
+            "preco": "700,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Repouso dos guerrero",
-            "imagem": "https://http2.mlstatic.com/D_NQ_NP_690102-MLB75025742777_032024-O.webp",
-            "preco": "213,90",
+            "descricao": "Primeira parcela Gravata",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdCnZLIa-HkKJsLTjigAkm4OZ7_SCRXmPZAfPn_Q-pMw&s=10",
+            "preco": "100,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Spray de ambiente",
-            "imagem": "https://www.granado.com.br/media/catalog/product/e/a/ean7896512955388_52852.jpg?optimize=high&fit=bounds&height=1614&width=1254&canvas=1254:1614",
-            "preco": "115,00",
+            "descricao": "O requeijão e o pão nunca duram o mês inteiro",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaXwa8XtLx-4nC7mMc-EdPaIU88_cF2kFCChtjY6OHTQ&s=10",
+            "preco": "20,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Sonzão pros filmes",
-            "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT70TZqjegsisgNeN0zq4nCvGFbXDjbM1RCTMMiEIrtF9_Wyjmr5TXi7tv7RMbNQZiwl7KwYcfpQYfCi24NUrSVt77_C4GPiotTdbRWbeXSo5GUNTgM8zz5&usqp=CAE",
-            "preco": "683,61",
+            "descricao": "Feijão nosso de cada dia",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2SlKfLxHQrOfFd4EwmHnkwDqiLMXqoCFMCsZ6DW-cQ&s=10",
+            "preco": "25,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Tapetão pra sala nova",
-            "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m130wc0x3jfi42.webp",
-            "preco": "274,90",
+            "descricao": "Frutas para a noiva não ter diabetes",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBGgqQnrcdnXOTfuUsTAr1uZPyMEmlqhu2vNY7l3jEZA&s=10",
+            "preco": "90,00",
             "link": "",
-            "recebido": true
+            "recebido": false
         },
         {
-            "descricao": "Vale Tudo",
-            "imagem": "https://incentivale.com.br/images/portfolio/portf_havan.jpg",
+            "descricao": "Ajude a convencer o noivo de que existe vida além do PC",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbPO4UCh-DL2m3LGNAJ_5SkyAlttaqtFrilWvgSBi7FQ&s=10",
+            "preco": "450,00",
+            "link": "",
+            "recebido": false
+        },
+        {
+            "descricao": "Ajude a manter o bom humor da noiva (e as unhas)",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuyvb4MwDkgqRazVS-vwFxeU2hZVD5G2ssBnyVItf4DA&s=10",
             "preco": "300,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "SmartTv 32 polegadas",
-            "imagem": "https://imgs.casasbahia.com.br/55066196/1g.jpg?imwidth=500?imwidth=384",
-            "preco": "989,00",
-            "link": "",
-            "recebido": true
-        },
-        {
-            "descricao": "Kit Festão",
-            "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m3nmcikpy863f4@resize_w450_nl.webp",
-            "preco": "99,00",
+            "descricao": "Chocolate para emergências conjugais",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7YP3w8PHEmfwHH3EggbItYbx4b-Vdh0zRfByJenv3Q&s=10",
+            "preco": "65,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Taças para Sobremesa",
-            "imagem": "https://a-static.mlcdn.com.br/800x560/jogo-tacas-vidro-sobremesa-sorvete-220ml-kit-6-unidades-nadir-figueiredo/bhr/124294/f9bc02dedcfed8557850523c2c61d137.jpeg",
-            "preco": "62,83",
-            "link": "",
-            "recebido": true
-        },
-        {
-            "descricao": "Impressora Multifuncional",
-            "imagem": "https://img.kalunga.com.br/fotosdeprodutos/218389d.jpg",
-            "preco": "404,10",
+            "descricao": "Patrocine as encomendas que estavam em promoção",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RkP9jgco4MrfnawVXL5VSxxB2mS_xqZNA3vgj8Ayhw&s=10",
+            "preco": "100,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Casal Fit",
-            "imagem": "https://http2.mlstatic.com/D_NQ_NP_996517-MLB80186953086_112024-O.webp",
-            "preco": "158,77",
-            "link": "",
-            "recebido": true
-        },
-        {
-            "descricao": "Coqueteleira Inox",
-            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_747290-MLB80426481445_112024-F.webp",
-            "preco": "179,83",
-            "link": "",
-            "recebido": true
-        },
-        {
-            "descricao": "Mixer com copo",
-            "imagem": "https://electrolux.vtexassets.com/arquivos/ids/210171-1200-1200?v=637604902218900000&width=1200&height=1200&aspect=true",
-            "preco": "208,05",
-            "link": "",
-            "recebido": true
-        },
-        {
-            "descricao": "Ideias Incríveis",
-            "imagem": "https://www.tramontinastore.com.bo/images/t-store1.png",
-            "preco": "112",
+            "descricao": "Uma planta que esperamos manter viva",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7eV-O_zTnNCL6P8M4bN0KTQF6F2maIhQ3wj9syU5dJw&s=10",
+            "preco": "75,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Pratos pra sopinha",
-            "imagem": "https://m.media-amazon.com/images/I/71vGY2H4MVL._AC_SX425_.jpg",
-            "preco": "158,83",
+            "descricao": "Fundo contra dinossauros (vai que...)",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM0qgxlsaCJrzBtySRznTjJJkOwkzKZhn5E3sw8ZoSiw&s=10",
+            "preco": "400,00",
+            "link": "",
+            "recebido": false
+        },
+        {
+            "descricao": "Caso os ETs apareçam, estaremos preparados",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0sjSLjvYCKmf39fA0gxraLL_YeU3AWHf4vVdAySydcA&s=10",
+            "preco": "140,00",
+            "link": "",
+            "recebido": false
+        },
+        {
+            "descricao": "Ração para o Rabudo e a Gatita",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbzQ5lb6ROIH98iX-_6jIlEa64ma25L_-eB2s16uYsw&s=10",
+            "preco": "68,00",
+            "link": "",
+            "recebido": false
+        },
+        {
+            "descricao": "Fundo contra o apocalipse zumbi",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1wrz5_2_hk3ioSs4NMEtPdTfMQfU4EKDg-xcf0mzVIA&s=10",
+            "preco": "301,00",
+            "link": "",
+            "recebido": false
+        },
+        {
+            "descricao": "Um dia de parque, porque os noivos são radicais",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNLDMJZx2ZOoMA1O448uFd0om5KVcFLHGl5F7BKd90Og&s=10",
+            "preco": "40,00",
+            "link": "",
+            "recebido": false
+        },
+        {
+            "descricao": "A felicidade não tem preço, mas os móveis têm.",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3MzMdGbd6urGSuX2GnyVbRG36nXS6gVXza1n5N5_Whg&s=10",
+            "preco": "150,00",
             "link": "",
             "recebido": false
         },
@@ -296,47 +296,12 @@ const data = {
             "recebido": false
         },
         {
-            "descricao": "Curso de culinária para o Felipe",
-            "imagem": "https://f.i.uol.com.br/fotografia/2022/03/05/16465202106223e792499ca_1646520210_3x2_rt.jpg",
-            "preco": "274",
+            "descricao": "O que seu coração mandar",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTlbFwdSObn91W3D9Me188aKumT-HxvhTTdzEIbkZrUg&s=10",
+            "preco": "",
             "link": "",
             "recebido": false
-        },
-        {
-            "descricao": "Louça digna pra comida da Vih",
-            "imagem": "https://m.media-amazon.com/images/I/61X4yOQ+PoL._AC_SX679_.jpg",
-            "preco": "224,10",
-            "link": "",
-            "recebido": false
-        },
-        {
-            "descricao": "Garanta seu Ingresso pra renovação",
-            "imagem": "https://50emais.com.br/wp-content/uploads/2024/01/Casal.jpg",
-            "preco": "499,90",
-            "link": "",
-            "recebido": false
-        },
-        {
-            "descricao": "Fura fila do bar",
-            "imagem": "https://cdn0.casamentos.com.br/vendor/9120/3_2/960/jpg/screenshot-20221021-184811-gallery_13_159120-166638906324262.jpeg",
-            "preco": "150",
-            "link": "",
-            "recebido": false
-        },
-        {
-            "descricao": "Bolinhos da Vivi",
-            "imagem": "https://a-static.mlcdn.com.br/800x560/batedeira-planetaria-oster-4l-850w-preto-inox-127v-obat641-127/continentalcenter/280212501030210011/61f88cacd0c3dfee08ffbb0181a8e382.jpeg",
-            "preco": "475,00",
-            "link": "",
-            "recebido": true
-        },
-        {
-            "descricao": "Limpeza Pesada",
-            "imagem": "https://a-static.mlcdn.com.br/800x560/lavadora-alta-pressao-lav-1300-127v-vonder/interlevelbrasil/6864130001/e5a8e8682af421edc3b5f8ae46c9315c.jpeg",
-            "preco": "299,00",
-            "link": "",
-            "recebido": true
-        }
+        } 
     ]
 };
 
