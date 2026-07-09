@@ -289,13 +289,6 @@ const data = {
             "recebido": false
         },
         {
-            "descricao": "Cineminha",
-            "imagem": "https://http2.mlstatic.com/D_NQ_NP_739940-MLU72567968526_112023-O.webp",
-            "preco": "128,91",
-            "link": "",
-            "recebido": false
-        },
-        {
             "descricao": "O que seu coração mandar",
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTlbFwdSObn91W3D9Me188aKumT-HxvhTTdzEIbkZrUg&s=10",
             "preco": "",
