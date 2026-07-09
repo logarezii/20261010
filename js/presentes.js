@@ -9,7 +9,7 @@ const data = {
             "recebido": false
         },
         {
-            "descricao": "Uma vela para criar um clima (ou iluminar uma queda de energia)",
+            "descricao": "Uma vela para criar um clima ou iluminar uma queda de energia",
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfHLxGvQO1c2YN_MjV3XL5Ph4EXn0P93uE9Mm1xw25Jw&s=10",
             "preco": "28,00",
             "link": "",
@@ -44,14 +44,14 @@ const data = {
             "recebido": false
         },
         {
-            "descricao": "Ajude na faxina (ou pelo menos nos produtos)",
+            "descricao": "Ajude na faxina ou pelo menos nos produtos",
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmBOiVKB5Gu5kI4KZk7wtKusEqpV5Wqxclzl46fV6U2g&s=10",
             "preco": "60,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Uma frigideira para os ovos de domingo (ou pra bater na cabeça do noivo)",
+            "descricao": "Uma frigideira para os ovos de domingo ou pra bater na cabeça do noivo",
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNczFm8z395lvTujHdYqstIXe3DQxE1-i-DG9lbaGJw&s=10",
             "preco": "69,00",
             "link": "",
@@ -177,14 +177,14 @@ const data = {
             "recebido": false
         },
         {
-            "descricao": "Seja um investidor-anjo deste casamento",
+            "descricao": "Seja um investidor anjo deste casamento",
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuegrx5Ikrc4J4qZWQHdXTsgum4wFQ1KD2-9v30y7sMw&s=10",
             "preco": "700,00",
             "link": "",
             "recebido": false
         },
         {
-            "descricao": "Primeira parcela Gravata",
+            "descricao": "Primeira parcela da gravata",
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdCnZLIa-HkKJsLTjigAkm4OZ7_SCRXmPZAfPn_Q-pMw&s=10",
             "preco": "100,00",
             "link": "",
@@ -219,7 +219,7 @@ const data = {
             "recebido": false
         },
         {
-            "descricao": "Ajude a manter o bom humor da noiva (e as unhas)",
+            "descricao": "Ajude a manter o bom humor da noiva e as unhas",
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuyvb4MwDkgqRazVS-vwFxeU2hZVD5G2ssBnyVItf4DA&s=10",
             "preco": "300,00",
             "link": "",
@@ -247,7 +247,7 @@ const data = {
             "recebido": false
         },
         {
-            "descricao": "Fundo contra dinossauros (vai que...)",
+            "descricao": "Fundo contra dinossauros vai que...",
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM0qgxlsaCJrzBtySRznTjJJkOwkzKZhn5E3sw8ZoSiw&s=10",
             "preco": "400,00",
             "link": "",
