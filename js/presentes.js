@@ -30,13 +30,6 @@ const data = {
             "recebido": false
         },
         {
-            "descricao": "Lua De Mel",
-            "imagem": "https://virtualjoias.com/media/wysiwyg/virtualjoias-0902-Lugares-para-passar-lua-de-mel-imagem5-blog_1.jpg",
-            "preco": "1.500,00",
-            "link": "",
-            "recebido": false
-        },
-        {
             "descricao": "Sessão de cinema em casa",
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwbsklJ1U8ifz71vfP0xIXaBi8nHHazOMuwQSoYuSVKw&s=10",
             "preco": "58,00",
@@ -248,7 +241,7 @@ const data = {
         },
         {
             "descricao": "Fundo contra dinossauros vai que...",
-            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM0qgxlsaCJrzBtySRznTjJJkOwkzKZhn5E3sw8ZoSiw&s=10",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSf_zxotWU1_RVbhFF8opVE4vmWQSageNqgs7mp6PMQw&s=10",
             "preco": "400,00",
             "link": "",
             "recebido": false
