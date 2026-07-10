@@ -135,11 +135,11 @@ const data = {
             "recebido": false
         },
         {
-            "descricao": "O melhor presente é a sua presença. O PIX é um bônus!",
+            "descricao": "O melhor presente é a sua presença. O PIX é um bônus",
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0JphwKwuR35Xxz9Zi1fQDDmh4U1rjVdzs3szeSZk7A&s=10",
             "preco": "5.000,00",
             "link": "",
-            "recebido": true
+            "recebido": false
         },
         {
             "descricao": "Porque o amor é lindo, mas a realidade também existe",
@@ -275,7 +275,7 @@ const data = {
             "recebido": false
         },
         {
-            "descricao": "A felicidade não tem preço, mas os móveis têm.",
+            "descricao": "A felicidade não tem preço, mas os móveis têm",
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3MzMdGbd6urGSuX2GnyVbRG36nXS6gVXza1n5N5_Whg&s=10",
             "preco": "150,00",
             "link": "",
